@@ -1,0 +1,6 @@
+black
+pytest
+pytest-helpers-namespace
+pytest-mock
+pylint
+pylint-airflow
